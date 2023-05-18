@@ -1,6 +1,6 @@
 # Letronium
 
-My works for Letronium startup.
+Web, graphic, presentation design created for startup Letronium. Used Adobe Photoshop, Adobe Illustartor.
 
 # Preview
 
